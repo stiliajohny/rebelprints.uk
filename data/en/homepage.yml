@@ -4,7 +4,7 @@ banner:
   enable: true
   title: "Upgrade Your Ride"
   content: "Get your bike running smoother and looking sharper. Our gear's built tough for bikers who demand the best. Hit the road with confidence."
-  image: "images/watch.png"  # Consider swapping this for a more relevant image
+  image: "images/placeholder-multiple-products-on background.png"  # Consider swapping this for a more relevant image
   button:
     enable: true
     label: "See What's New"
@@ -14,7 +14,7 @@ banner:
 features:
   enable: true
   title: "The Biker's Choice"
-  image: "images/animated.gif"  # Consider an image that cycles through your products
+  image: "images/placeholder-multiple-products-on background.png"  # Consider an image that cycles through your products
 
   # feature at the left of the image
   left_side:
@@ -57,7 +57,7 @@ about_product:
   title: "Behind the Gear: A Rider's Craft"
   items:
     # about product item loop
-    - image: "images/showcase/showcase-4.png"
+    - image: "images/about/placeholder-about1.png"
       title: "Crafted by a Rider, for Riders"
       content:
         "As a fellow biker, I know the thrill of the ride and the importance of reliable gear. Every piece I create during my free hours is a testament to my passion for biking. It's not just about making a profit; it's about sharing something I love with a community I belong to. My prices? Just enough to keep the wheels spinning and fund my next adventure. This isn't a faceless corporation; it's a biker's dream, one print at a time."
@@ -67,7 +67,7 @@ about_product:
         link: "#/"
 
     # about product item loop
-    - image: "images/showcase/showcase-3.png"
+    - image: "images/about/placeholder-about2.png"
       title: "Quality Meets Passion"
       content:
         "Every item is the result of countless hours tinkering, testing, and perfecting. Made with high-strength carbon PLA, these accessories aren't just built to last; they're designed to enhance your riding experience. I price them just above cost because for me, it's not about the money. It's about sharing my passion and supporting our community. Your support fuels my hobby and helps me bring even more ideas to life."
@@ -77,18 +77,19 @@ about_product:
         link: "#/"
 
 
+################################## Subscription ###################
+subscription:
+  enable: true
+  bg_image: "images/placeholder-subscribe-paralax-effect.png"
+  title: "Stay in the Loop"
+  content: "New tools, parts, and gear. Sign up to get the latest straight to your inbox."
+  placeholder: "Your Email Here"
+
+
 #################################### Products ########################
 products:
   enable: true
   title: "Our Gear Lineup"
-
-################################## Subscription ###################
-subscription:
-  enable: true
-  bg_image: "images/call-to-action.jpg"
-  title: "Stay in the Loop"
-  content: "New tools, parts, and gear. Sign up to get the latest straight to your inbox."
-  placeholder: "Your Email Here"
 
 ############################## Testimonial ##########################
 testimonial:
