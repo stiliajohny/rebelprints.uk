@@ -88,12 +88,15 @@ url = "https://www.instagram.com/spraynspin/"
 logo = "images/logo.png"
 logo_width = "50px"
 # Meta data
-description = "Spray 'n' Spin - Motorbike Chain Lube Applicator"
+description = "Spray 'n' Spin"
 author = "John Stilia"
 # currency
 currency = "£"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
+
+keywords = "motorbike gear, eco-friendly accessories, 3D printed tools, rider equipment"
+
 
 # Preloader
 [params.preloader]
@@ -124,9 +127,8 @@ copyright = "© 2024 Spray n Spin. All rights reserved."
 
 
 
-
 [sitemap]
-  changeFreq = ''
+  changeFreq = 'daily'
   filename = 'sitemap.xml'
   priority = -1
 
