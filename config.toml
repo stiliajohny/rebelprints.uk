@@ -2,6 +2,12 @@
 baseurl = "Https://spraynspin.uk"
 title = "Spray 'n' Spin"
 theme = "vex-hugo"
+
+taxonomiesExcludedFromSitemap = ["tags", "categories"]
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+
+
 # post excert
 summarylength = "20"
 # google analytics
@@ -116,4 +122,11 @@ weight = 1
 # copyright
 copyright = "© 2024 Spray n Spin. All rights reserved."
 
+
+
+
+[sitemap]
+  changeFreq = ''
+  filename = 'sitemap.xml'
+  priority = -1
 
