@@ -1,0 +1,203 @@
+# ############################# banner ############################
+# banner:
+#   enable: true
+#   title: "No more messy wheels, Spray 'n' Spin."
+#   content: "Keep your chain smoothly running without the mess. Our applicator delivers precise lube application. Spray, spin, and enjoy the ride."
+#   image: "images/watch.png"
+#   button:
+#     enable: true
+#     label: "Browse All Products"
+#     link: "products/"
+
+# ############################# Feature ############################
+# features:
+#   enable: true
+#   title: "Ask Why? We Have Reasons"
+#   image: "images/animated.gif"
+
+#   # feature at the left of the image
+#   left_side:
+#     # feature item loop
+#     - title: "No wasted lube"
+#       icon: "tf-recycle2"
+#       content: "Save lube, save money. Our smart applicator will only apply the required amount of lube on your bike chain."
+
+#       # feature item loop
+#     - title: "Fits all spray cans"
+#       icon: "tf-ion-arrow-resize"
+#       content: "Our applicator is designed to fit all spray cans. No need to buy a specific lube can for our applicator."
+
+#       # feature item loop
+#     - title: "Multiangle applicator"
+#       icon: "tf-genius"
+#       content: "Lubricate your bike chain from any angle. Our applicator is designed to reach every corner of your bike chain."
+
+#   # feature at the right of the image
+#   right_side:
+#     # feature item loop
+#     - title: "Fits all chain sizes"
+#       icon: "tf-ion-arrow-resize"
+#       content: "Pick from a selection of widths or a universal one that fits all chain sizes. Our applicator is designed to fit all chain sizes."
+
+#       # feature item loop
+#     - title: "Easy to use"
+#       icon: "tf-heart2"
+#       content: "Our applicator is designed to be easy to use. Just spray and spin your bike chain."
+
+#       # feature item loop
+#     - title: "Made by a biker"
+#       icon: "tf-speedometer"
+#       content: "Designed by a biker for bikers. The applicator is designed to make your life easier and your bike chain cleaner. Trust me I use it 😜"
+
+
+
+
+# ############################# promo ############################
+# promo:
+#   enable: true
+#   image: "images/crosscut.png"
+#   title: "Designed by professional , the benefit for creative gigs"
+#   content:
+#     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
+#     nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
+#     <br><br>
+#     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+
+# ############################# About Product #######################
+# about_product:
+#   enable: false
+#   title: "Why Choose Apple Watch"
+#   items:
+#     # about product item loop
+#     - image: "images/showcase/showcase-4.png"
+#       title: "Lorem ipsum dolor sit amet."
+#       content:
+#         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+#         sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+#         quas, quo harum deserunt consequatur cumque!"
+#       button:
+#         enable: true
+#         label: "Check Features"
+#         link: "#/"
+
+#     # about product item loop
+#     - image: "images/showcase/showcase-3.png"
+#       title: "Lorem ipsum dolor sit amet."
+#       content:
+#         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+#         sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+#         quas, quo harum deserunt consequatur cumque!"
+#       button:
+#         enable: true
+#         label: "Check Features"
+#         link: "#/"
+
+# #################################### Products ########################
+# products:
+#   enable: true
+#   title: "Checkout Our All Products"
+
+# ################################## Subscription ###################
+# subscription:
+#   enable: true
+#   bg_image: "images/call-to-action.jpg"
+#   title: "Get Product Updates"
+#   content: "We make cool things, let us let you know abt it."
+#   placeholder: "Your Email Address Here"
+
+# ############################## Testimonial ##########################
+# testimonial:
+#   enable: false
+#   title: "Watch Review"
+#   testimonial_item:
+#     # testimonial item loop
+#     - name: "Jonathon Andrew"
+#       designation: "CEO, Themefisher"
+#       image: "images/avater.png"
+#       content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+
+#     # testimonial item loop
+#     - name: "Jonathon Andrew"
+#       designation: "CEO, Themefisher"
+#       image: "images/avater.png"
+#       content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+
+#     # testimonial item loop
+#     - name: "Jonathon Andrew"
+#       designation: "CEO, Themefisher"
+#       image: "images/avater.png"
+#       content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+
+
+############################# banner ############################
+banner:
+  enable: true
+  title: "Upgrade Your Ride"
+  content: "Get your bike running smoother and looking sharper. Our gear's built tough for bikers who demand the best. Hit the road with confidence."
+  image: "images/watch.png"  # Consider swapping this for a more relevant image
+  button:
+    enable: true
+    label: "See What's New"
+    link: "products/"
+
+############################# Feature ############################
+features:
+  enable: true
+  title: "The Biker's Choice"
+  image: "images/animated.gif"  # Consider an image that cycles through your products
+
+  # feature at the left of the image
+  left_side:
+    - title: "Efficiency First"
+      icon: "tf-recycle2"
+      content: "Designed for maximum performance with no waste. Our gear gets the job done right."
+
+    - title: "Universal Fit"
+      icon: "tf-ion-arrow-resize"
+      content: "One size fits most. We've engineered our products to work with just about any bike."
+
+    - title: "Smart Design"
+      icon: "tf-genius"
+      content: "Tackle any maintenance issue with tools made for easy fixes and adjustments."
+
+  # feature at the right of the image
+  right_side:
+    - title: "Tough as Nails"
+      icon: "tf-ion-arrow-resize"
+      content: "Our products are as hardworking as you are. Built to last with high-strength materials."
+
+    - title: "Plug 'n' Play"
+      icon: "tf-heart2"
+      content: "No fuss, no muss. Our tools and accessories are all about making your life easier."
+
+    - title: "By Bikers, For Bikers"
+      icon: "tf-speedometer"
+      content: "We ride too. That's why we make gear that we'd use ourselves."
+
+############################# promo ############################
+promo:
+  enable: true
+  image: "images/crosscut.png"
+  title: "Built by Bikers"
+  content: "We know what works because we're on the road with you. Every product is tested and tweaked until it's just right."
+
+############################# About Product #######################
+about_product:
+  enable: false
+
+#################################### Products ########################
+products:
+  enable: true
+  title: "Our Gear Lineup"
+
+################################## Subscription ###################
+subscription:
+  enable: true
+  bg_image: "images/call-to-action.jpg"
+  title: "Stay in the Loop"
+  content: "New tools, parts, and gear. Sign up to get the latest straight to your inbox."
+  placeholder: "Your Email Here"
+
+############################## Testimonial ##########################
+testimonial:
+  enable: false
