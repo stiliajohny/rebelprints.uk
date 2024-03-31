@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
-baseurl = "https://key-silver-single-completed.trycloudflare.com/"
-title = "Spray 'n' Spin - Motorbike Chain Lube Applicator"
+baseurl = "Https://spraynspin.uk"
+title = "Spray 'n' Spin"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
