@@ -1,0 +1,47 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{- if $data.homepage.banner.enable }}
+{{- with $data.homepage.banner }}
+<!-- hero area -->
+
+
+<audio id="myAudio" >
+	<source src="sportsbike-flyby.mp3" type="audio/mp3">
+	Your browser does not support the audio element.
+  </audio>
+  
+  <script>
+	window.addEventListener('load', function() {
+	  var audio = document.getElementById('myAudio');
+	  audio.muted = true; // Attempt to start muted to increase chances of autoplaying
+	  audio.play().then(() => {
+		audio.muted = false; // If autoplay succeeds, try unmuting (might not be allowed)
+	  }).catch(error => {
+		console.error("Autoplay with sound was prevented.");
+		// Implement fallback behavior here, such as showing a play button.
+	  });
+	});
+  </script>
+
+<section class="section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 text-center mb-5 mb-md-0">
+				<img class="img-fluid" src="{{ .image | absURL }}" alt="">
+			</div>
+			<div class="col-md-6 align-self-center text-center text-md-left">
+				<div class="block">
+					<h1 class="font-weight-bold mb-4 font-size-60">{{ .title | markdownify }}</h1>
+					<p class="mb-4">{{ .content | markdownify }}</p>
+					{{ if .button.enable }}
+					{{ with .button }}
+					<a href="{{.link|absLangURL}}" class="btn btn-main">{{.label}}</a>
+					{{ end }}
+					{{ end }}
+				</div>
+			</div>
+		</div><!-- .row close -->
+	</div><!-- .container close -->
+</section><!-- header close -->
+{{- end }}
+{{- end }}
