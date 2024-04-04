@@ -5,6 +5,7 @@ theme = "vex-hugo"
 
 taxonomiesExcludedFromSitemap = ["tags", "categories"]
 disableKinds = ["taxonomy", "taxonomyTerm"]
+enableRobotsTXT = true
 
 
 
