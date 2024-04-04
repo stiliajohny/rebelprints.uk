@@ -2,10 +2,10 @@
 title: "HellRider Helmet Horns"
 date: [Insert Current Date Here]
 images:
-  - "images/showcase/placeholder-p1p1.png"
-  - "images/showcase/placeholder-p1p2.png"
-  - "images/showcase/placeholder-p1p3.png"
-  - "images/showcase/placeholder-p1p4.png"
+  - "images/showcase/horner-progressive.gif"
+  # - "images/showcase/placeholder-p1p2.png"
+  # - "images/showcase/placeholder-p1p3.png"
+  # - "images/showcase/placeholder-p1p4.png"
 
 # meta description
 description: "Elevate your helmet game with HellRider Helmet Horns. Swap out the ordinary for the extraordinary with our 3D printed, durable helmet horns. Available in a spectrum of colors to complement your style."
