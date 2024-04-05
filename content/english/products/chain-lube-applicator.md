@@ -23,7 +23,7 @@ button_link: ""
 
 draft: false
 
-weight: 100
+weight: 101
 ---
 
 The Chain Lube Applicator revolutionizes bike maintenance by attaching directly to any spray can, allowing for precise, even application of lube to the chain without mess on the wheel or other bike parts. Available in black, orange, and green to match your style, and designed for chain sizes 520, 525, 530 to cater to various bike models. Keep your bike running smoothly and cleanly.

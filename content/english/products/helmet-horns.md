@@ -16,7 +16,7 @@ price: "4.65"
 
 # product variation
 colors: ["matte black", "fiery red", "electric blue", "neon green"]
-sizes: ["S", "M", "L"]
+sizes: ["universal"]
 
 # button link if you don't want to use snipcart. empty link will not show button
 # button_link: "[Insert Link Here]"
