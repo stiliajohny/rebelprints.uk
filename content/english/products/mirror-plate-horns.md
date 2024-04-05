@@ -22,6 +22,8 @@ sizes : ["universal"]
 # button_link: "#"
 
 draft: false
+
+weight: 100
 ---
 
 Sportbike mirrors can be bulky and detract from the sleek look of your ride. With DevilHorns Blanking Plates, you can remove those eyesores and add a touch of style and rebellion. These plates not only cover up the spots left by mirror removal but also add distinctive devil horns to your bike, letting you ride with an edge. Choose from black, red, blue, green, and more to perfectly complement your bike's design. Embrace the devilish side of biking with these unique blanking plates.

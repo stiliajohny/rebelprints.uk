@@ -22,6 +22,9 @@ sizes : ["universal"]
 # button_link: "#"
 
 draft: false
+
+weight: 100
+
 ---
 
 Sport an unrivaled look with our Devil's Horn LED Blanking Plates, the perfect accessory for the biker who dares to stand out. These plates not only serve as a stylish replacement for your bike's original mirrors but also offer the functional benefit of LED lighting for increased visibility. Connect them to your bike's lighting system and watch as they transform your ride, ensuring you're seen and safe, regardless of the time of day. Available in several bold colors, they're designed to make a statement while providing an essential safety feature.
