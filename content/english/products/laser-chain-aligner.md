@@ -22,6 +22,8 @@ sizes : ["universal"]
 # button_link: "https://google.com"
 
 draft: false
+
+weight: 100
 ---
 
 The LaserGuide Chain Aligner is your go-to for maintaining the longevity and performance of your bike. Designed for ease of use, it employs magnets for attachment to magnetic sprockets or can be simply held against non-magnetic ones. The precision laser line it projects ensures your wheel and chain are perfectly aligned, allowing for adjustments as needed. A must-have for any biker concerned with reducing the risk of misalignment-related wear and tear.

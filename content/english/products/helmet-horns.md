@@ -22,6 +22,9 @@ sizes: ["S", "M", "L"]
 # button_link: "[Insert Link Here]"
 
 draft: false
+
+weight: 100
+
 ---
 
 Upgrade your helmet from standard to standout with **HellRider Helmet Horns**. Our uniquely designed 3D printed horns attach seamlessly to your helmet, giving it an aggressive, stylish edge that's bound to turn heads.
