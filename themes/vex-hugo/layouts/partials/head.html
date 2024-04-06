@@ -25,7 +25,12 @@
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ site.Params.logo | absURL }}" type="image/x-icon">
   <link rel="icon" href="{{ site.Params.logo | absURL }}" type="image/x-icon">
-  
+
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.Params.logo | absURL }}">
+  <!-- Add additional sizes as needed -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    
 
   {{ with .Params.image }}
   <meta property="og:image" content="{{ . | absURL }}" />
