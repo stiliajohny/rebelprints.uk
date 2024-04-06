@@ -11,7 +11,7 @@
   {{ hugo.Generator }}
   
   <!-- theme meta -->
-  <meta name="theme-name" content="vex-hugo" />
+  <!-- <meta name="theme-name" content="vex-hugo" /> -->
 
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range site.Params.plugins.css }}
@@ -23,8 +23,9 @@
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
   {{ "<!--Favicon-->" | safeHTML }}
-  <link rel="shortcut icon" href="{{ `images/animated.gif` | absURL }} " type="image/x-icon">
-  <link rel="icon" href="{{ `images/animated.gif` | absURL }} " type="image/x-icon">
+  <link rel="shortcut icon" href="{{ site.Params.logo | absURL }}" type="image/x-icon">
+  <link rel="icon" href="{{ site.Params.logo | absURL }}" type="image/x-icon">
+  
 
   {{ with .Params.image }}
   <meta property="og:image" content="{{ . | absURL }}" />

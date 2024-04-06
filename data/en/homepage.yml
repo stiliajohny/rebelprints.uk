@@ -2,12 +2,12 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Upgrade Your Ride"
-  content: "Get your bike running smoother and looking sharper. Our gear's built tough for bikers who demand the best. Hit the road with confidence."
+  title: "Live to Ride, Gear to Last: Spray and Spin."
+  content: "It all started with our very first product designed to lubricate your chain with ease and no mess. Let's explore together some of the other high-quality gear we offer."
   image: "images/placeholder-multiple-products-on background.png"  # Consider swapping this for a more relevant image
   button:
     enable: true
-    label: "See What's New"
+    label: "Check our Gear"
     link: "products/"
 
 ############################# Feature ############################

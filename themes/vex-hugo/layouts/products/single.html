@@ -51,5 +51,38 @@
     </div>
   </div>
 </section>
+<section class="section" >
+  <div class="container">
+    <div class="heading text-center mb-40">
+      <h2>Often Bought With</h2>
+      <p>Enhance your experience with these essentials.</p>
+    </div>
+    <div class="row">
+      {{ with .Params.related_products }}
+        {{ range . }}
+          {{ $relatedTitle := . }}
+          {{ $relatedPages := where site.RegularPages "Title" $relatedTitle }}
+          {{ range $relatedPages }}
+            <div class="col-md-4 mb-4">
+              <div class="product-info">
+                <a href="{{ .Permalink }}" class="link-title">
+                  {{ with .Params.images }}
+                    {{ $imageUrl := index . 0 }}
+                    <img src="{{ $imageUrl | absURL }}" alt="{{ $relatedTitle }}" class="img-fluid mb-2" style="border-radius: 5px;">
+                  {{ end }}
+                  <h4>{{ .Title }}</h4>
+                </a>
+                <p>{{ .Params.description | truncate 120 }}</p>
+                <p class="price">{{ site.Params.currency }}{{ .Params.price }}</p>
+                <a href="{{ .Permalink }}" class="btn btn-main">View Product</a>
+              </div>
+            </div>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>
+
 
 {{ end }}
