@@ -2,11 +2,13 @@
 baseurl = "Https://spraynspin.uk"
 title = "Spray 'n' Spin"
 theme = "vex-hugo"
+description = "3d printed motorbike gear and accessories"
+image = "images/logo.png"
+
 
 taxonomiesExcludedFromSitemap = ["tags", "categories"]
 disableKinds = ["taxonomy", "taxonomyTerm"]
 enableRobotsTXT = true
-
 
 
 # post excert
@@ -94,6 +96,8 @@ url = "https://www.instagram.com/spraynspin/"
 ########################### Default parameters ##########################
 [params]
 logo = "images/logo.png"
+image = "images/logo.png"
+
 logo_width = "100px"
 # Meta data
 description = "Spray 'n' Spin"
