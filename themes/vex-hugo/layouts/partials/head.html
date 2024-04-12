@@ -9,7 +9,7 @@
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
-  
+
   <!-- theme meta -->
   <!-- <meta name="theme-name" content="vex-hugo" /> -->
 
@@ -25,25 +25,25 @@
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ site.Params.logo | absURL }}" type="image/x-icon">
   <link rel="icon" href="{{ site.Params.logo | absURL }}" type="image/x-icon">
-
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.Params.logo | absURL }}">
   <!-- Add additional sizes as needed -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    
+
 
   {{ with .Params.image }}
   <meta property="og:image" content="{{ . | absURL }}" />
   {{ end }}
-  {{ template "_internal/opengraph.html" . }}
-  {{ template "_internal/google_analytics_async.html" . }}
 
 
-  <meta property="og:title" content="{{ .Title }}">
+  {{ with .Params.logo }}
+  <meta property="og:image" content="{{ . | absURL }}" />
+  {{ end }}
   <meta property="og:type" content="website">
-  <meta property="og:url" content="{{ .Permalink }}">
-  <meta property="og:image" content="{{ .Site.BaseURL }}/images/showcase/chain_lube_adaptor_26mm.gif">
-  <meta property="og:description" content="{{ .Description | truncate 200 }}">
+  <meta property="og:locale" content="{{ .Site.Language.Lang }}">
+  <meta property="og:image" content="{{ site.Params.logo | absURL }}" />
   <meta property="og:site_name" content="{{ .Site.Title }}">
 
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/google_analytics_async.html" . }}
 </head>
