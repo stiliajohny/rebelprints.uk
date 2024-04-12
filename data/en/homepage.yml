@@ -2,8 +2,8 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Live to Ride, Gear to Last: Spray and Spin."
-  content: "It all started with our very first product designed to lubricate your chain with ease and no mess. Let's explore together some of the other high-quality gear we offer."
+  title: "Making thins for bikers by bikers"
+  content: "It all started with my very first product designed to lubricate your chain with ease and no mess. Since then, we've expanded our lineup to include tools, accessories, and gear that make your ride smoother, safer, and more enjoyable. We're bikers too, and we know what works."
   image: "images/placeholder-multiple-products-on background.png"  # Consider swapping this for a more relevant image
   button:
     enable: true
@@ -24,7 +24,7 @@ features:
 
     - title: "Universal Fit"
       icon: "tf-ion-arrow-resize"
-      content: "One size fits most. We've engineered our products to work with just about any bike."
+      content: "One size fits most. I've engineered our products to work with just about any bike."
 
     - title: "Smart Design"
       icon: "tf-genius"
@@ -34,7 +34,7 @@ features:
   right_side:
     - title: "Solid as Carbon"
       icon: "tf-ion-arrow-resize"
-      content: "Engineered for endurance, our gear matches your grit. Crafted from high-strength carbon PLA for ultimate durability."
+      content: "Engineered for endurance, our gear matches your grit. Crafted from high-strength carbon PETG for ultimate durability."
 
     - title: "Plug 'n' Play"
       icon: "tf-heart2"

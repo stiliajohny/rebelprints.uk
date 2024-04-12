@@ -69,6 +69,7 @@ url = "contact/"
 weight = 4
 
 
+
 [[menu.footer]]
 name = "Contact"
 url = "contact/"
@@ -78,6 +79,12 @@ weight = 2
 name = "Terms & Conditions"
 url = "terms-conditions/"
 weight = 3
+
+[[menu.footer]]
+name = "Cost"
+url = "cost-calculator/"
+weight = 4
+
 
 [[menu.footer]]
 name = "Instagram"

@@ -2,10 +2,10 @@
 title: "Devil's Horn LED Blanking Plates"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/showcase/placeholder-p1p1.png"
-  - "images/showcase/placeholder-p1p2.png"
-  - "images/showcase/placeholder-p1p3.png"
-  - "images/showcase/placeholder-p1p4.png"
+  - "images/showcase/placeholders/placeholder-p1p1.png"
+  - "images/showcase/placeholders/placeholder-p1p2.png"
+  - "images/showcase/placeholders/placeholder-p1p3.png"
+  - "images/showcase/placeholders/placeholder-p1p4.png"
 
 # meta description
 description : "Elevate your bike's style and safety with our Devil's Horn LED Blanking Plates. Designed to replace unsightly mirrors, these plates add a wicked edge to your ride with integrated LEDs for enhanced visibility. Available in a spectrum of colors, they're the perfect blend of menace and practicality."
@@ -24,6 +24,8 @@ sizes : ["universal"]
 draft: false
 
 weight: 100
+
+related_products: ["Chain Lube Applicator"]
 
 ---
 

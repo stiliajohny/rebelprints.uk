@@ -12,14 +12,14 @@ Please read the terms and conditions below carefully. They outline important asp
 
 ### Refund Policy
 
-1. Given the nature of our physical products, we accept returns under specific conditions. If the product is damaged upon delivery or if you experience any malfunctioning (not resulting from misuse), please contact us for a replacement.
+1. Given the nature of our physical products, we accept returns under specific conditions. If the product is **damaged upon delivery** or if you placeholders/ (not resulting from misuse), please contact us for a replacement.
 2. You have 14 days from the receipt of your purchase to notify us of any issues that do not meet your expectations. We will require proof of the issue (such as photos or detailed descriptions) to process a refund or replacement.
 3. Qualifying returns will be refunded the full amount, minus any handling charges. Refunds are typically processed within 3–5 business days upon approval of the return. Refunds will be applied to the original payment method.
 
 ### Lifetime Warranty Policy
 
 We are proud to offer a Lifetime Warranty for the Spray 'n' Spin against defects in materials and workmanship to the original purchaser. If your product is damaged or malfunctions, please provide proof, and we will replace it at no additional cost. This warranty does not cover damages due to accidents, misuse, unauthorized repairs, or normal wear and tear. To initiate a warranty claim, please contact us at <spraynspin@gmail.com> with a detailed description of the issue and proof of purchase.
-
+ 
 ### Why We Support
 
 We are committed to your satisfaction and the performance of your Spray 'n' Spin. Our support includes:

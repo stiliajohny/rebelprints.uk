@@ -1,0 +1,52 @@
+<!-- Dynamic Product Price Calculator -->
+<div>
+    <label>Add your costs:</label>
+    <div id="costsContainer{{ .Page.UniqueID }}"></div>
+    <button type="button" onclick="addCostInput{{ .Page.UniqueID }}()">+ Add Cost</button>
+</div>
+
+<div>
+    <label for="commissionBase{{ .Page.UniqueID }}">Commission Base (£):</label>
+    <input type="number" id="commissionBase{{ .Page.UniqueID }}" value="0.20" step="0.01"><br>
+
+    <label for="commissionPerc{{ .Page.UniqueID }}">Commission Percentage (%):</label>
+    <input type="number" id="commissionPerc{{ .Page.UniqueID }}" value="5" step="0.1"><br>
+
+    <label for="markupPerc{{ .Page.UniqueID }}">Markup Percentage (%):</label>
+    <input type="number" id="markupPerc{{ .Page.UniqueID }}" value="50" step="0.1"><br>
+
+    <button type="button" onclick="calculatePrice{{ .Page.UniqueID }}()">Calculate Price</button>
+    <p id="result{{ .Page.UniqueID }}">Suggested Selling Price: </p>
+</div>
+
+<script>
+function addCostInput{{ .Page.UniqueID }}() {
+    let container = document.getElementById('costsContainer{{ .Page.UniqueID }}');
+    let input = document.createElement('input');
+    input.type = 'number';
+    input.classList.add('costInput{{ .Page.UniqueID }}');
+    input.placeholder = 'Enter a cost';
+    input.style.display = 'block';
+    input.style.marginTop = '5px';
+    input.value = '0.00';
+    input.step = '0.01';
+    container.appendChild(input);
+}
+
+function calculatePrice{{ .Page.UniqueID }}() {
+    let costs = document.querySelectorAll('.costInput{{ .Page.UniqueID }}');
+    let totalCost = 0;
+    costs.forEach(function(input) {
+        totalCost += parseFloat(input.value);
+    });
+
+    const commissionBase = parseFloat(document.getElementById('commissionBase{{ .Page.UniqueID }}').value);
+    const commissionPerc = parseFloat(document.getElementById('commissionPerc{{ .Page.UniqueID }}').value) / 100;
+    const markupPerc = parseFloat(document.getElementById('markupPerc{{ .Page.UniqueID }}').value) / 100;
+
+    let markedUpCost = totalCost * (1 + markupPerc);
+    let price = (markedUpCost + commissionBase) / (1 - commissionPerc);
+    
+    document.getElementById('result{{ .Page.UniqueID }}').innerText = `Suggested Selling Price: £${price.toFixed(2)}`;
+}
+</script>
