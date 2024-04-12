@@ -2,12 +2,12 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Making thins for bikers by bikers"
-  content: "It all started with my very first product designed to lubricate your chain with ease and no mess. Since then, we've expanded our lineup to include tools, accessories, and gear that make your ride smoother, safer, and more enjoyable. We're bikers too, and we know what works."
+  title: "Built for Riders"
+  content: "From my first no-mess chain lubricator to a full range of tools, accessories, and gear, I've engineered everything to enhance your ride. As a biker myself, I create what I know works best."
   image: "images/placeholder-multiple-products-on background.png"  # Consider swapping this for a more relevant image
   button:
     enable: true
-    label: "Check our Gear"
+    label: "Check the Gear"
     link: "products/"
 
 ############################# Feature ############################

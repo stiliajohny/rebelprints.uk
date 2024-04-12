@@ -7,7 +7,7 @@ image = "images/logo.png"
 
 
 taxonomiesExcludedFromSitemap = ["tags", "categories"]
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 
 
@@ -70,8 +70,6 @@ name = "Contact"
 url = "contact/"
 weight = 4
 
-
-
 [[menu.footer]]
 name = "Contact"
 url = "contact/"
@@ -83,12 +81,6 @@ url = "terms-conditions/"
 weight = 3
 
 [[menu.footer]]
-name = "Cost"
-url = "cost-calculator/"
-weight = 4
-
-
-[[menu.footer]]
 name = "Instagram"
 url = "https://www.instagram.com/spraynspin/"
 
@@ -98,7 +90,7 @@ url = "https://www.instagram.com/spraynspin/"
 logo = "images/logo.png"
 image = "images/logo.png"
 
-logo_width = "100px"
+logo_width = "70px"
 # Meta data
 description = "Spray 'n' Spin"
 author = "John Stilia"

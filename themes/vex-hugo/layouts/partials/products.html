@@ -12,7 +12,8 @@
 
 
          <div class="product-slider">
-          {{ range (where .Site.RegularPages "Section" "products") }}
+          {{ range shuffle (where .Site.RegularPages "Section" "products") }}
+
           <div class="block">
             <div class="gallery-overlay">
               <a href="{{ .Permalink }}" class="gallery-popup">
