@@ -38,4 +38,12 @@
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/google_analytics_async.html" . }}
 
+
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:image" content="{{ .Site.BaseURL }}/images/showcase/chain_lube_adaptor_26mm.gif">
+  <meta property="og:description" content="{{ .Description | truncate 200 }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+
 </head>

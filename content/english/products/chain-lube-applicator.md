@@ -27,3 +27,14 @@ related_products: ["HellRider Helmet Horns", "Devil's Horn LED Blanking Plates"]
 ---
 
 The Chain Lube Applicator revolutionizes bike maintenance by attaching directly to any spray can, allowing for precise, even application of lube to the chain without mess on the wheel or other bike parts. Available in black, orange, and green to match your style, and designed for chain sizes 520, 525, 530 to cater to various bike models. Keep your bike running smoothly and cleanly.
+
+{{< specs
+    material="High-impact plastic (PETG)"
+    dimensions="15cm x 5cm x 3cm"
+    weight="200g"
+    compatibility="Compatible with all standard spray cans"
+    usage_instructions="Attach to the top of the can with a cable tie, align with the chain, and spray evenly."
+    care_and_maintenance="Wash with soapy water, avoid harsh chemicals."
+    warranty_information="Lifetime (5 years)"
+    environmental_or_safety_information="Made from recycled materials, non-toxic. Recycle with Plastics"
+>}}

@@ -54,7 +54,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Products"
+name = "Gear"
 url = "products/"
 weight = 2
 
@@ -94,7 +94,7 @@ url = "https://www.instagram.com/spraynspin/"
 ########################### Default parameters ##########################
 [params]
 logo = "images/logo.png"
-logo_width = "50px"
+logo_width = "100px"
 # Meta data
 description = "Spray 'n' Spin"
 author = "John Stilia"

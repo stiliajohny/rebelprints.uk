@@ -1,5 +1,5 @@
 - id: "add_to_cart"
-  translation: "Add to Cart"
+  translation: "Buy me"
   
 - id: "send"
   translation: "Send Now"
@@ -9,12 +9,3 @@
   
 - id: "read_more"
   translation: "Read More"
-  
-- id: "subscribe"
-  translation: "Subscribe"
-  
-- id: "subscribe"
-  translation: "Subscribe"
-  
-- id: "subscribe"
-  translation: "Subscribe"

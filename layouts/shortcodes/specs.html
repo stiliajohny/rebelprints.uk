@@ -1,0 +1,11 @@
+<!-- layouts/shortcodes/specs.html -->
+<div class="additional-specifications" style="border-top: 1px solid #ccc; font-size: 0.2em; padding-top: 10px;">
+    {{ with .Get "material" }}<p style="margin-bottom: 5px;"><strong>Material:</strong> {{ . }}</p>{{ end }}
+    {{ with .Get "dimensions" }}<p style="margin-bottom: 5px;"><strong>Dimensions:</strong> {{ . }}</p>{{ end }}
+    {{ with .Get "weight" }}<p style="margin-bottom: 5px;"><strong>Weight:</strong> {{ . }}</p>{{ end }}
+    {{ with .Get "compatibility" }}<p style="margin-bottom: 5px;"><strong>Compatibility:</strong> {{ . }}</p>{{ end }}
+    {{ with .Get "usage_instructions" }}<p style="margin-bottom: 5px;"><strong>Usage instructions:</strong> {{ . }}</p>{{ end }}
+    {{ with .Get "care_and_maintenance" }}<p style="margin-bottom: 5px;"><strong>Care and maintenance:</strong> {{ . }}</p>{{ end }}
+    {{ with .Get "warranty_information" }}<p style="margin-bottom: 5px;"><strong>Warranty information:</strong> {{ . }}</p>{{ end }}
+    {{ with .Get "environmental_or_safety_information" }}<p style="margin-bottom: 5px;"><strong>Environmental or safety information:</strong> {{ . }}</p>{{ end }}
+</div>
