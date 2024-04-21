@@ -11,7 +11,7 @@ $(window).on('load', function () {
   $('.product-image-slider').slick({
     autoplay: false,
     infinite: true,
-    arrows: false,
+    arrows: true,
     dots: true,
     customPaging: function (slider, i) {
       var image = $(slider.$slides[i]).data('image');
