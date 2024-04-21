@@ -32,12 +32,12 @@ related_products: ["Chain Lube Applicator"]
 Keep your keys as fresh as your threads with our ‘Licence Plate’ Keyring. Whether it’s your handle, alias, or a personal shout-out, this keyring lets you stamp your style on it. **We'll hook up the custom text after you order.**
 
 {{< specs
-    material="Hard-wearing plastic (PETG)"
+    material="High-impact plastic (PETG)"
     dimensions="# TODO ADD DIMENTIONS"
     weight="# TODO ADD WEIGHT"
-    compatibility="All key types are good to go"
-    usage_instructions="Clip it on your loop or stash it in your bag, easy does it."
-    care_and_maintenance="Wipe clean with soapy water, steer clear of harsh chemicals."
-    warranty_information="Backed by a 5-year warranty"
-    environmental_or_safety_information="Made from recycled stuff, totally non-toxic, keepin’ it green."
+    compatibility="# TODO ADD"
+    usage_instructions="# TODO ADD"
+    care_and_maintenance="Wash with soapy water, avoid harsh chemicals."
+    warranty_information="# TODO ADD"
+    environmental_or_safety_information="Made from recycled materials, non-toxic. Recycle with Plastics"
 >}}

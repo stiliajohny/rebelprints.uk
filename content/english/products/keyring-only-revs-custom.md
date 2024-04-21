@@ -29,12 +29,12 @@ related_products: ["Chain Lube Applicator"]
 Ignite your passion for motorbiking with our Only Revs Keyring, designed for enthusiasts who live to ride. This stylish keyring features a unique rev line graphic as the 'O' in 'Only,' set against a bold, dual-tone rectangular tag with rounded corners. It’s the perfect way to showcase your love for the rev of the engine on and off the road.
 
 {{< specs
-    material="PLA+: Enhanced PLA with increased strength and durability"
+    material="High-impact plastic (PETG)"
     dimensions="# TODO ADD DIMENTIONS"
     weight="# TODO ADD WEIGHT"
-    compatibility="Compatible with standard keyrings. Come with spare keyring."
-    usage_instructions="Attach to the top of the can with a cable tie, align with the chain, and spray evenly."
-    care_and_maintenance="Wash with soapy COLD water, avoid harsh chemicals."
-    warranty_information="Lifetime (5 years)"
+    compatibility="# TODO ADD"
+    usage_instructions="# TODO ADD"
+    care_and_maintenance="Wash with soapy water, avoid harsh chemicals."
+    warranty_information="# TODO ADD"
     environmental_or_safety_information="Made from recycled materials, non-toxic. Recycle with Plastics"
 >}}

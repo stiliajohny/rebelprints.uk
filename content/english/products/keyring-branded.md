@@ -32,12 +32,12 @@ related_products: ["Chain Lube Applicator"]
 Express your identity with our Branded Rectangle Keyring. Personalize it by adding your own text, and carry a piece of your favorite motorcycle brand with you everywhere. **Details for custom text will be confirmed after your purchase.**
 
 {{< specs
-    material="Durable plastic (PETG)"
+    material="High-impact plastic (PETG)"
     dimensions="# TODO ADD DIMENTIONS"
     weight="# TODO ADD WEIGHT"
-    compatibility="Suitable for all key types"
-    usage_instructions="Simply attach it to your keychain and show off your brand loyalty."
-    care_and_maintenance="Clean with soapy water; avoid using harsh chemicals."
-    warranty_information="Covered by a 5-year warranty"
-    environmental_or_safety_information="Environmentally friendly, made from recycled materials and completely non-toxic."
+    compatibility="# TODO ADD"
+    usage_instructions="# TODO ADD"
+    care_and_maintenance="Wash with soapy water, avoid harsh chemicals."
+    warranty_information="# TODO ADD"
+    environmental_or_safety_information="Made from recycled materials, non-toxic. Recycle with Plastics"
 >}}

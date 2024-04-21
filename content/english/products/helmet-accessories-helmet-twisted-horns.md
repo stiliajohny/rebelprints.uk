@@ -32,9 +32,9 @@ Boost your lid with Twisted Horns. These sick, twisted horns add a mad edge to y
     material="High-impact plastic (PETG)"
     dimensions="# TODO ADD DIMENTIONS"
     weight="# TODO ADD WEIGHT"
-    compatibility="Compatible with all standard spray cans"
-    usage_instructions="Attach to the top of the can with a cable tie, align with the chain, and spray evenly."
+    compatibility="# TODO ADD"
+    usage_instructions="# TODO ADD"
     care_and_maintenance="Wash with soapy water, avoid harsh chemicals."
-    warranty_information="Lifetime (5 years)"
+    warranty_information="# TODO ADD"
     environmental_or_safety_information="Made from recycled materials, non-toxic. Recycle with Plastics"
 >}}

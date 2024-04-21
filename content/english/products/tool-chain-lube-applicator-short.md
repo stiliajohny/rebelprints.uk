@@ -27,13 +27,14 @@ related_products: ["HellRider Helmet Horns", "Devil's Horn LED Blanking Plates"]
 ---
 
 Meet the Chain Lube Applicator – the slick way to keep your chain oiled up without the mess. Perfect for bikers who keep it neat and speedy. Fits all spray can sizes and comes in different chain sizes too.
+
 {{< specs
     material="High-impact plastic (PETG)"
-    dimensions="15cm x 5cm x 3cm"
-    weight="200g"
-    compatibility="Compatible with all standard spray cans"
-    usage_instructions="Attach to the top of the can with a cable tie, align with the chain, and spray evenly."
+    dimensions="# TODO ADD DIMENTIONS"
+    weight="# TODO ADD WEIGHT"
+    compatibility="# TODO ADD"
+    usage_instructions="# TODO ADD"
     care_and_maintenance="Wash with soapy water, avoid harsh chemicals."
-    warranty_information="Lifetime (5 years)"
+    warranty_information="# TODO ADD"
     environmental_or_safety_information="Made from recycled materials, non-toxic. Recycle with Plastics"
 >}}
