@@ -8,8 +8,8 @@ images:
 
 
 # product Price
-price: "£53.86"
-# discount_price: "£0.00"
+price: "53.86"
+# discount_price: "0.00"
 
 # product variation
 colours: ["Default"]

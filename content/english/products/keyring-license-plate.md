@@ -5,7 +5,7 @@ images:
   - "images/products/keyring/only-revs-custom/image1.png"
 
 # product Price
-price: "£3.97"
+price: "3.97"
 
 # product variation
 colors: ["Custom"]

@@ -7,8 +7,8 @@ images:
   - "images/products/keyring/branded/image3.png"
 
 # product Price
-price: "£3.97"
-# discount_price: "£40.00"
+price: "3.97"
+# discount_price: "40.00"
 
 # product variation
 colors: ["Custom"]
