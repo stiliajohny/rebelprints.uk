@@ -5,9 +5,7 @@ images:
   - "images/products/decor/46-doctor-desk-light/cropped_image2.jpg"
   - "images/products/decor/46-doctor-desk-light/cropped_image1.jpg"
 
-# meta description
-description: "Deck out your den with this slick 3D logo lamp, perfect for bikers wanting to add some street swagger to their space. Easy plug & play with a 5V USB and adjustable light intensity.
-"
+
 
 # product Price
 price: "£53.86"

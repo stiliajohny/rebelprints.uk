@@ -4,9 +4,6 @@ date: 2024-04-12T11:22:16+01:00
 images:
   - "/images/showcase/keyrings/only-revs/onlyrevs-logo-v2.png"
 
-# meta description
-description: "DESCRIPTION"
-
 # product Price
 price: "00.00"
 # discount_price: "00.00"

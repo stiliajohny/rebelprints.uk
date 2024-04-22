@@ -4,10 +4,6 @@ date: 2024-04-12T11:22:16+01:00
 images:
   - "images/products/decor/suzuki-desk-light/image1.jpg"
 
-
-# meta description
-description: "Deck out your pad with the Suzuki Emblem LED Night Light, a slick 3D illuminated logo lamp. A must-have for bikers looking to add some street swagger to their hangout spot."
-
 # product Price
 price: "£53.86"
 # discount_price: "£0.00"

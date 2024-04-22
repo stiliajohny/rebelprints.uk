@@ -4,7 +4,7 @@ banner:
   enable: true
   title: "Built for Riders"
   content: "From my first no-mess chain lubricator to a full range of tools, accessories, and gear, I've engineered everything to enhance your ride. As a biker myself, I create what I know works best."
-  image: "images/placeholder-multiple-products-on background.png"  # Consider swapping this for a more relevant image
+  image: "images/nozzle.png"  # Consider swapping this for a more relevant image
   button:
     enable: true
     label: "Check the Gear"

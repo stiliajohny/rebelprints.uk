@@ -4,9 +4,6 @@ date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/products/tool/chain-lube-applicator-long/image.gif"
 
-# meta description
-description : "Meet the Chain Lube Applicator – the slick way to keep your chain oiled up without the mess. Perfect for bikers who keep it neat and speedy. Fits all spray can sizes and comes in different chain sizes too."
-
 # product Price
 price: "9.95"
 # discount_price: "25.00"

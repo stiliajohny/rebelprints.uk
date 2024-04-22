@@ -4,9 +4,6 @@ date: 2024-04-12T11:22:16+01:00
 images:
   - ""
 
-# meta description
-description: "No more messing around. Get that wheel straight, ready for the wheelies you've been popping. Align your chain and wheel with top-notch precision. Batteries included, you’re all set."
-
 # product Price
 price: "4.97"
 # discount_price: "40.00"

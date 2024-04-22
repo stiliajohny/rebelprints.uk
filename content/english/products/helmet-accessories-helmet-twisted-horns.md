@@ -4,9 +4,6 @@ date: 2024-04-12T11:22:16+01:00
 images:
   - "images/products/helmet-accessories/helmet-twisted-horns/image1.jpeg"
 
-# meta description
-description: "Boost your lid with Twisted Horns. These sick, twisted horns add a mad edge to your helmet. Pick from various colours to show off your style. Flex with a fierce twist!"
-
 # product Price
 price: "00.00"
 # discount_price: "00.00"

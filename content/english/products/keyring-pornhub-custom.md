@@ -4,10 +4,6 @@ date: 2019-10-17T11:22:16+06:00
 images:
   - "images/products/keyring/pornhub/image1.png"
 
-# meta description
-description: "
-Turn heads with our Bold Contrast Rectangle Keyring, decked out with smooth rounded corners and a standout dual-tone style that’s proper bold. Perfect for throwing some unique, custom swag on your everyday essentials. Rock it in those cheeky colours for a bit of naughty flair."
-
 # product Price
 price: "4.82"
 # discount_price: "40.00"

@@ -4,9 +4,6 @@ date: 2019-10-17T11:22:16+06:00
 images: 
   - ""
 
-# meta description
-description : "Switch up your ride with DevilHorns Blanking Plates. Lose the bulky mirrors for a sleek, devilish vibe with our horned plates in various colours. Stand out with a bit of rebel flair."
-
 # product Price
 price: "24.60"
 # discount_price: "30.00"

@@ -5,10 +5,6 @@ images:
   - "images/products/keyring/rectangle-rounded-custom/image1.png"
   - "images/products/keyring/rectangle-rounded-custom/image1.gif"
 
-
-# meta description
-description: "Boost your bling with our Custom Rectangle Keyring. Make it yours by slapping your own words on it; this keyring brings a personal swagger to your daily gear."
-
 # product Price
 price: "3.97"
 # discount_price: "40.00"

@@ -4,9 +4,6 @@ date: 2024-04-12T11:22:16+01:00
 images:
   - ""
 
-# meta description
-description: "Ignite your passion for motorbiking with our Only Revs Keyring, designed for enthusiasts who live to ride. This stylish keyring features a unique rev line graphic as the 'O' in 'Only,' set against a bold, dual-tone rectangular tag with rounded corners. It’s the perfect way to showcase your love for the rev of the engine on and off the road."
-
 # product Price
 price: "5.97"
 # discount_price: "40.00"

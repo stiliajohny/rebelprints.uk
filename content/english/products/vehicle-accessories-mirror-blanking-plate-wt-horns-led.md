@@ -4,9 +4,6 @@ date: 2019-10-17T11:22:16+06:00
 images:
   - ""
 
-# meta description
-description : "Ramp up your ride with our Devil's Horn LED Blanking Plates. Chuck your old mirrors for these badass LEDs in fresh colours—slick style meets street smarts."
-
 # product Price
 price: "14.60"
 # discount_price: "45.00"

@@ -4,11 +4,6 @@ date: 2024-04-12T11:22:16+01:00
 images:
   - "images/products/decor/bmw-desk-light/image1.jpg"
 
-
-# meta description
-description: "Deck out your den with this slick 3D logo lamp, perfect for bikers wanting to add some street swagger to their space. Easy plug & play with a 5V USB and adjustable light intensity.
-"
-
 # product Price
 price: "£53.86"
 # discount_price: "£0.00"

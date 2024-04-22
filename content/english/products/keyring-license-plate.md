@@ -3,13 +3,6 @@ title: "Custom 'Licence Plate' Keyring"
 date: 2019-10-17T11:22:16+06:00
 images:
   - "images/products/keyring/only-revs-custom/image1.png"
-  - "images/products/keyring/only-revs-custom/image2.png"
-  - "images/products/keyring/only-revs-custom/image3.png"
-  - "images/products/keyring/only-revs-custom/image4.png"
-  - "images/products/keyring/only-revs-custom/image5.png"
-
-# meta description
-description: "Switch up your key game with our Custom ‘Licence Plate’ Keyring. Personalize it with your street tag or any text to carry your unique vibe wherever you go."
 
 # product Price
 price: "£3.97"

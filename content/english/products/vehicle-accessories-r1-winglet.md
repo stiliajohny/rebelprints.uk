@@ -4,10 +4,6 @@ date: 2024-04-12T11:22:16+01:00
 images:
   - ""
 
-
-# meta description
-description: "Slap on this winglets to your motorbike; it ramps up stability and front grip while throwing some serious attitude into your ride’s style and aesthetics."
-
 # product Price
 price: "12.30"
 # discount_price: "00.00"

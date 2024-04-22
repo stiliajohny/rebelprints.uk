@@ -4,9 +4,6 @@ date: 2019-10-17T11:22:16+06:00
 images:
   - "images/products/helmet-accessories/helmet-horns/image1.gif"
 
-# meta description
-description: "Step up your helmet style with **HellRider Helmet Horns**. Ditch the usual for something wicked with our 3D printed, tough helmet horns. Pick from a range of colors to match your vibe."
-
 # product Price
 price: "4.65"
 # discount_price: "[Insert Discounted Price Here, if applicable]"

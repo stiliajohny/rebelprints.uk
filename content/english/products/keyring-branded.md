@@ -6,10 +6,6 @@ images:
   - "images/products/keyring/branded/image2.png"
   - "images/products/keyring/branded/image3.png"
 
-
-# meta description
-description: "Show off your allegiance with our Branded Rectangle Keyring. Customizable with your choice of text, this keyring flaunts your style along with your favorite motorcycle brand."
-
 # product Price
 price: "£3.97"
 # discount_price: "£40.00"
