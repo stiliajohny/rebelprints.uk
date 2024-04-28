@@ -1,11 +1,11 @@
 ---
 title: "Contact"
-description : "this is a meta description"
+description : "We are rebels"
 
 office:
   title : "Where to find me"
   mobile : "07572785067"
-  email : "rev3dprints69@gmail.com"
+  email : "rebel3dprints9@gmail.com"
   location : "London, UK"
   content : "Drop me a line, "
   instagram: "rev3dprints"

@@ -1,6 +1,6 @@
 ---
 title: "Terms & Conditions"
-description: "This document outlines the terms and conditions for the purchase and use of Rebel Prints products."
+description: "This document outlines the terms and conditions for the purchase and use of Rebel 3D Prints products."
 draft: false
 ---
 
@@ -18,14 +18,14 @@ Please read the terms and conditions below carefully. They outline important asp
 
 ### Lifetime Warranty Policy
 
-We are proud to offer a Lifetime Warranty for the Rebel Prints against defects in materials and workmanship to the original purchaser. If your product is damaged or malfunctions, please provide proof, and we will replace it at no additional cost. This warranty does not cover damages due to accidents, misuse, unauthorized repairs, or normal wear and tear. To initiate a warranty claim, please contact us at <rebelprints@gmail.com> with a detailed description of the issue and proof of purchase.
+We are proud to offer a Lifetime Warranty for the Rebel 3D Prints against defects in materials and workmanship to the original purchaser. If your product is damaged or malfunctions, please provide proof, and we will replace it at no additional cost. This warranty does not cover damages due to accidents, misuse, unauthorized repairs, or normal wear and tear. To initiate a warranty claim, please contact us at <rebel3dprints@gmail.com> with a detailed description of the issue and proof of purchase.
 
 ### Why We Support
 
-We are committed to your satisfaction and the performance of your Rebel Prints products. Our support includes:
+We are committed to your satisfaction and the performance of your Rebel 3D Prints products. Our support includes:
 
 - Assistance with product setup and usage.
 - Help with any functional issues.
 - Addressing defects or malfunctioning as per our Lifetime Warranty policy.
 
-Our goal is to ensure that you have the best possible experience with Rebel Prints, enhancing your rides and taking care of your bike with ease and confidence.
+Our goal is to ensure that you have the best possible experience with Rebel 3D Prints, enhancing your rides and taking care of your bike with ease and confidence.

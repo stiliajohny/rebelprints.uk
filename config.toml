@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
-baseurl = "Https://rebelprints.uk"
-title = "Rebel Prints"
+baseurl = "Https://rebel3dprints.uk"
+title = "Rebel 3D Prints"
 theme = "vex-hugo"
 description = "3d printed motorbike gear and accessories"
 image = "images/logo.png"
@@ -91,14 +91,14 @@ image = "images/logo.png"
 
 logo_width = "70px"
 # Meta data
-description = "Rebel Prints"
+description = "Rebel 3D Prints"
 author = "John Stilia"
 # currency
 currency = "£"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
-keywords = "motorbike gear, eco-friendly accessories, 3D printed tools, rider equipment, custom 3D printed motorbike parts, sustainable motorbike accessories, biodegradable motorbike gear, eco-friendly riding equipment, durable gear for bikers, motorcycle tools for easy maintenance, lightweight motorbike accessories, PETG motorbike accessories, carbon PLA 3D printing, environmentally friendly 3D printing motorbike gear, gear for motorbike enthusiasts, accessories for eco-conscious bikers, motorcycle DIY maintenance tools, UK made motorbike gear, London based motorbike accessories, Rebel Prints innovative motorcycle gear, affordable 3D printed motorcycle tools"
+keywords = "motorbike gear, eco-friendly accessories, 3D printed tools, rider equipment, custom 3D printed motorbike parts, sustainable motorbike accessories, biodegradable motorbike gear, eco-friendly riding equipment, durable gear for bikers, motorcycle tools for easy maintenance, lightweight motorbike accessories, PETG motorbike accessories, carbon PLA 3D printing, environmentally friendly 3D printing motorbike gear, gear for motorbike enthusiasts, accessories for eco-conscious bikers, motorcycle DIY maintenance tools, UK made motorbike gear, London based motorbike accessories, Rebel 3D Prints innovative motorcycle gear, affordable 3D printed motorcycle tools"
 
 
 # Preloader
@@ -115,8 +115,8 @@ snipcart_api = "YWJiZTk3YTMtNTQxNy00MDkwLWEyNzktOTJkY2IyYTJlZTM1NjM4NDc0NjY3MTk0
 # Subscription
 [params.subscription]
 # mailchimp subsciption
-mailchimp_form_action = "https://rebelprints.us22.list-manage.com/subscribe/post?u=ce56c412ce9700e2a96e710e4&amp;id=4de5670e49&amp;f_id=00ebc1e1f0" # replace this url with yours
-mailchimp_form_name = "b_ce56c412ce9700e2a96e710e4_4de5670e49"                                                           # replace this code with yours
+#mailchimp_form_action = "https://rebelprints.us22.list-manage.com/subscribe/post?u=ce56c412ce9700e2a96e710e4&amp;id=4de5670e49&amp;f_id=00ebc1e1f0" # replace this url with yours
+#mailchimp_form_name = "b_ce56c412ce9700e2a96e710e4_4de5670e49"                                                           # replace this code with yours
 
 
 ################################### English language #####################################
@@ -126,7 +126,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "© 2024 Rebel Prints. All rights reserved."
+copyright = "© 2024 Rebel 3D Prints. All rights reserved."
 
 
 
