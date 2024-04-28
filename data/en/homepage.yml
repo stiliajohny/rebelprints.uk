@@ -2,8 +2,8 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Built for Riders"
-  content: "From my first no-mess chain lubricator to a full range of tools, accessories, and gear, I've engineered everything to enhance your ride. As a biker myself, I create what I know works best."
+  title: "Rebel. Print. Ride."
+  content: "From the first spill-free chain lubricator to an expansive selection of custom tools, accessories, and gear, I've engineered solutions that amplify every ride. As a dedicated biker, I craft only what works."
   image: "images/banner.png"  # Consider swapping this for a more relevant image
   button:
     enable: true
