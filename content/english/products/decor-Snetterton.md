@@ -9,7 +9,7 @@ price: "38.00"
 colors: ["Bright Orange","Classic White"]
 sizes: ["One Size"]
 
-draft: false
+draft: true
 
 weight: 100
 

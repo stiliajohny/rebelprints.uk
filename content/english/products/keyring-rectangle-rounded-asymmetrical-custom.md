@@ -13,7 +13,7 @@ colors: ["Custom"]
 sizes: ["Universal"]
 
 # product variation
-draft: false
+draft: true
 
 weight: 100
 

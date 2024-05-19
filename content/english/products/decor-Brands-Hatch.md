@@ -1,27 +1,29 @@
 ---
-title: "Bedford Autodrome Track Model"
+title: "Brands Hatch GP/Indy Track Model"
 date: 2024-04-12T11:22:16+01:00
 images:
-  - "images/products/decor/bedford-autodrome/bedford-autodrome.jpg"
+  - "images/products/decor/brands-hatch/BrandsHatch-0.DNG"
+  - "images/products/decor/brands-hatch/BrandsHatch-1.DNG"
+  - "images/products/decor/brands-hatch/BrandsHatch-2.DNG"
 
-price: "34.00"
+price: "38.00"
 
-colors: ["Autodrome Ash", "Silverstone Silver"]
+colors: ["White", "Red", "Green", "Blue", Black, "Black/Red"]
 sizes: ["One Size"]
 
-draft: true
+draft: false
 
 weight: 100
 
-related_products: ["Silverstone Track Model"]
+related_products: ["Croft Track Model"]
 
 ---
 
-Add a model of Bedford Autodrome to your collection and appreciate its modern design and fast curves in 3D printed form.
+Display a detailed model of Brands Hatch Track, featuring the new 300 circuit layout, perfect for any racing enthusiast’s collection.
 
 {{< specs
     material="High-impact plastic (PETG)"
-    dimensions="23x12 cm"
+    dimensions="21x11 cm"
     weight="210 grams"
     compatibility="Desk display"
     usage_instructions="Handle with care, display proudly."

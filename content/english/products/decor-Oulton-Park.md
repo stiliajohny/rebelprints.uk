@@ -2,11 +2,13 @@
 title: "Oulton Park Track Model"
 date: 2024-04-12T11:22:16+01:00
 images:
-  - "images/products/decor/oulton/oulton.jpg"
+  - "images/products/decor/oulton/OutlonPark-0.dng"
+  - "images/products/decor/oulton/OutlonPark-1.dng"
+  - "images/products/decor/oulton/OutlonPark-2.dng"
 
 price: "40.00"
 
-colors: ["Forest Green","Earth Brown"]
+colors: ["White", "Red", "Green", "Blue", Black, "Black/Red"]
 sizes: ["One Size"]
 
 draft: false

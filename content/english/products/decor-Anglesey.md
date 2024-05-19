@@ -10,7 +10,7 @@ price: "37.00"
 colors: ["Sea Blue", "Cloud White"]
 sizes: ["One Size"]
 
-draft: false
+draft: true
 
 weight: 100
 

@@ -9,7 +9,7 @@ price: "42.00"
 colors: ["Slate Grey","Midnight Black"]
 sizes: ["One Size"]
 
-draft: false
+draft: true
 
 weight: 100
 

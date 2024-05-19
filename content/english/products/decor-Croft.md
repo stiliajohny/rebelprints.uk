@@ -10,7 +10,7 @@ price: "39.00"
 colors: ["Racing Red","Polar White"]
 sizes: ["One Size"]
 
-draft: false
+draft: true
 
 weight: 100
 

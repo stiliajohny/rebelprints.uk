@@ -9,7 +9,7 @@ price: "36.00"
 colors: ["Monaco Blue", "Raceway Red"]
 sizes: ["One Size"]
 
-draft: false
+draft: true
 
 weight: 100
 

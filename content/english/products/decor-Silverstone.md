@@ -9,7 +9,7 @@ price: "15.00"
 colors: ["Racing Green","Jet Black"]
 sizes: ["One Size"]
 
-draft: false
+draft: true
 
 weight: 100
 

@@ -9,7 +9,7 @@ price: "41.00"
 colors: ["Heather Purple", "Storm Gray"]
 sizes: ["One Size"]
 
-draft: false
+draft: true
 
 weight: 100
 
