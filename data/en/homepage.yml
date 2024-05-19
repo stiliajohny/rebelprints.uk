@@ -79,7 +79,7 @@ about_product:
 
 ################################## Subscription ###################
 subscription:
-  enable: true
+  enable: false
   bg_image: "images/placeholder-subscribe-paralax-effect.png"
   title: "Stay in the Loop"
   content: "New tools, parts, and gear. Sign up to get the latest straight to your inbox."
