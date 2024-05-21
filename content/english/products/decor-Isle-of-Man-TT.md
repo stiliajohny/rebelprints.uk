@@ -1,5 +1,5 @@
 ---
-title: "Silverstone Track Model"
+title: "Isle of Man TT Track Model"
 date: 2024-04-12T11:22:16+01:00
 images:
   - "images/products/decor/silverstone/"
@@ -19,7 +19,7 @@ related_products: ["Donington Park GP Track Model"]
 
 ---
 
-Experience the thrill of Silverstone in your own home with this detailed 3D printed model. Ideal for display or as a collector's item.
+Bring the iconic Isle of Man TT into your home with this meticulously crafted 3D printed model. Perfect for display or as a collector's piece for any motorbike enthusiast.
 
 {{< specs
     material="High-impact plastic (PETG)"

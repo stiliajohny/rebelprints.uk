@@ -5,10 +5,10 @@ description : "We are rebels"
 office:
   title : "Where to find me"
   mobile : "07572785067"
-  email : "rebel3dprints9@gmail.com"
+  email : "gearup@rebel3dprints.uk"
   location : "London, UK"
   content : "Drop me a line, "
-  instagram: "rev3dprints"
+  instagram: "rebel3dprints"
 
 # opennig hour
 opennig_hour:
