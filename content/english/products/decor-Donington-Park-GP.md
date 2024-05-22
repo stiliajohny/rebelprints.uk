@@ -4,7 +4,7 @@ date: 2024-04-12T11:22:16+01:00
 images:
   - "images/products/decor/donington/donington.jpeg"
 
-price: "50.00"
+price: "5.85"
 
 colors: ["White", "Red", "Green", "Blue", Black, "Black/Red"]
 sizes: ["One Size"]
