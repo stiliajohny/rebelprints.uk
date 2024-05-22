@@ -2,9 +2,7 @@
 title: "Silverstone Track Model"
 date: 2024-04-12T11:22:16+01:00
 images:
-  - "images/products/decor/silverstone/"
-  - "images/products/decor/silverstone/"
-  - "images/products/decor/silverstone/"
+  - "images/products/decor/silverstone/silverstone.jpeg"
 
 price: "15.00"
 

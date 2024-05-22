@@ -2,9 +2,7 @@
 title: "Oulton Park Track Model"
 date: 2024-04-12T11:22:16+01:00
 images:
-  - "images/products/decor/oulton/OutlonPark-0.dng"
-  - "images/products/decor/oulton/OutlonPark-1.dng"
-  - "images/products/decor/oulton/OutlonPark-2.dng"
+  - "images/products/decor/oulton/outlon-park.jpeg"
 
 price: "40.00"
 

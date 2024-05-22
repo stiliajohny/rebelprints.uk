@@ -2,9 +2,7 @@
 title: "Brands Hatch GP/Indy Track Model"
 date: 2024-04-12T11:22:16+01:00
 images:
-  - "images/products/decor/brands-hatch/BrandsHatch-0.DNG"
-  - "images/products/decor/brands-hatch/BrandsHatch-1.DNG"
-  - "images/products/decor/brands-hatch/BrandsHatch-2.DNG"
+  - "images/products/decor/brands-hatch/brands-hatch-gp-indy.jpeg"
 
 price: "38.00"
 
