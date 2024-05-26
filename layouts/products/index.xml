@@ -7,7 +7,6 @@
     {{- range $products -}}
       {{- if eq .Section "products" -}}
         <item>
-          <g:id>{{ .Params.sku | truncate 50 }}</g:id>
           <title>{{ .Title }}</title>
           <g:price>{{ .Params.price }}</g:price>
           <g:availability>{{ .Params.availability }}</g:availability>
