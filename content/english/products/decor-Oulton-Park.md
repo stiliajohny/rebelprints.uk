@@ -12,7 +12,7 @@ weight: "100 grams"  # Specified weight unit
 related_products: ["Cadwell Park Track Model"]
 availability: "in stock"
 link: "https://rebel3dprints.uk/products/decor-oulton-park/"
-image_link: "https://rebel3dprints.uk/images/products/decor/oulton/oulton-park.jpeg"
+image_link: "https://rebel3dprints.uk/images/products/decor/oulton/outlon-park.jpeg"
 description: "Get a piece of racing history with this Oulton Park track model, ideal for enthusiasts and collectors alike."
 brand: "Rebel 3D Prints"  # Added brand
 gtin: "1234567890123"  # Added GTIN
@@ -30,3 +30,5 @@ Get a piece of racing history with this Oulton Park track model, ideal for enthu
     warranty_information="One-year warranty against manufacturing defects."
     environmental_or_safety_information="Made from recycled materials, non-toxic. Recycle with Plastics"
 >}}
+
+static/images/products/decor/oulton/outlon-park.jpeg
