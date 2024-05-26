@@ -15,6 +15,9 @@ weight: 100
 
 related_products: ["Donington Park GP Track Model"]
 
+link: "https://rebel3dprints.uk/products/decor-isle-of-man-tt/"
+image_link: "https://rebel3dprints.uk/images/products/decor/isle-of-man/isle-of-man-tt.jpeg"
+
 ---
 
 Bring the iconic Isle of Man TT into your home with this meticulously crafted 3D printed model. Perfect for display or as a collector's piece for any motorbike enthusiast.

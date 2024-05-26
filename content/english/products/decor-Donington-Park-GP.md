@@ -15,6 +15,9 @@ weight: 100
 
 related_products: ["Silverstone Track Model"]
 
+link: "https://rebel3dprints.uk/products/decor-donington-park-gp/"
+image_link: "https://rebel3dprints.uk/images/products/decor/donington/donington.jpeg"
+
 ---
 
 Decorate your space with a 3D printed model of Donington Park GP Track. Crafted with precision, it captures the essence of the track's challenging layout.

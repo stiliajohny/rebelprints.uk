@@ -15,6 +15,10 @@ weight: 100
 
 related_products: ["Cadwell Park Track Model"]
 
+link: "https://rebel3dprints.uk/products/decor-oulton-park/"
+image_link: "https://rebel3dprints.uk/images/products/decor/oulton/outlon-park.jpeg"
+
+
 ---
 
 Get a piece of racing history with this Oulton Park track model, ideal for enthusiasts and collectors alike.

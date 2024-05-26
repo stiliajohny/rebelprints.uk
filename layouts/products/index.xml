@@ -1,0 +1,21 @@
+{{- $products := .Site.RegularPages -}}
+<rss version="2.0">
+  <channel>
+    <title>My Product Feed</title>
+    <link>{{ .Site.BaseURL }}</link>
+    <description>This is a feed of my products</description>
+    {{- range $products -}}
+      {{- if eq .Section "products" -}}
+        <item>
+          <title>{{ .Title }}</title>
+          <g:id>{{ .Params.sku }}</g:id>
+          <g:price>{{ .Params.price }}</g:price>
+          <g:availability>{{ .Params.availability }}</g:availability>
+          <link>{{ .Params.link }}</link>
+          <g:image_link>{{ .Params.image_link }}</g:image_link>
+          <description>{{ .Summary }}</description>
+        </item>
+      {{- end -}}
+    {{- end -}}
+  </channel>
+</rss>

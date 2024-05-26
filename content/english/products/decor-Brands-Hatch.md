@@ -15,6 +15,9 @@ weight: 100
 
 related_products: ["Croft Track Model"]
 
+link: "https://rebel3dprints.uk/products/decor-brands-hatch"
+image_link: "https://rebel3dprints.uk/images/products/decor/brands-hatch/brands-hatch-gp-indy.jpeg"
+
 ---
 
 Display a detailed model of Brands Hatch Track, featuring the new 300 circuit layout, perfect for any racing enthusiast’s collection.
