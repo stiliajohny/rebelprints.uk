@@ -1,20 +1,23 @@
 ---
 title: "Silverstone Track Model"
+sku: "STM12345"  # Added SKU
 date: 2024-04-12T11:22:16+01:00
 images:
   - "images/products/decor/silverstone/silverstone.jpeg"
-price: "5.85"
-colors: ["White", "Red", "Green", "Blue", Black, "Black/Red"]
+price: "5.85 GBP"  # Ensured price includes currency
+colors: ["White", "Red", "Green", "Blue", "Black", "Black/Red"]  # Corrected color formatting
 sizes: ["One Size"]
 draft: false
-weight: 100
+weight: "100 grams"  # Specified weight unit
 related_products: ["Donington Park GP Track Model"]
 availability: "in stock"
 link: "https://rebel3dprints.uk/products/decor-silverstone/"
 image_link: "https://rebel3dprints.uk/images/products/decor/silverstone/silverstone.jpeg"
-
+description: "Experience the thrill of Silverstone in your own home with this detailed 3D printed model. Ideal for display or as a collector's item."
+brand: "Rebel 3D Prints"  # Added brand
+gtin: "1234567890123"  # Added GTIN
+mpn: "STM12345"  # Added MPN
 ---
-
 Experience the thrill of Silverstone in your own home with this detailed 3D printed model. Ideal for display or as a collector's item.
 
 {{< specs

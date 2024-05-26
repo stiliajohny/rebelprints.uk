@@ -7,12 +7,22 @@
     {{- range $products -}}
       {{- if eq .Section "products" -}}
         <item>
+          <g:id>{{ .Params.sku | truncate 50 }}</g:id>
           <title>{{ .Title }}</title>
+          <g:description>{{ .Params.description | truncate 5000 | safeHTML }}</g:description>
+          <g:link>{{ .Params.link }}</g:link>
+          <g:image_link>{{ .Params.image_link }}</g:image_link>
           <g:price>{{ .Params.price }}</g:price>
           <g:availability>{{ .Params.availability }}</g:availability>
-          <link>{{ .Params.link }}</link>
-          <g:image_link>{{ .Params.image_link }}</g:image_link>
-          <description>{{ .Summary | safeHTML }}</description>
+          {{- if .Params.brand }}
+          <g:brand>{{ .Params.brand | truncate 70 }}</g:brand>
+          {{- end }}
+          {{- if .Params.gtin }}
+          <g:gtin>{{ .Params.gtin | truncate 50 }}</g:gtin>
+          {{- end }}
+          {{- if .Params.mpn }}
+          <g:mpn>{{ .Params.mpn | truncate 70 }}</g:mpn>
+          {{- end }}
         </item>
       {{- end -}}
     {{- end -}}

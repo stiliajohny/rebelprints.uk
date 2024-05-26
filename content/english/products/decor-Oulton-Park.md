@@ -1,20 +1,23 @@
 ---
 title: "Oulton Park Track Model"
+sku: "OPTM12345"  # Added SKU
 date: 2024-04-12T11:22:16+01:00
 images:
-  - "images/products/decor/oulton/outlon-park.jpeg"
-price: "5.85"
-colors: ["White", "Red", "Green", "Blue", Black, "Black/Red"]
+  - "images/products/decor/oulton/oulton-park.jpeg"
+price: "5.85 GBP"  # Ensured price includes currency
+colors: ["White", "Red", "Green", "Blue", "Black", "Black/Red"]  # Corrected color formatting
 sizes: ["One Size"]
 draft: false
-weight: 100
+weight: "100 grams"  # Specified weight unit
 related_products: ["Cadwell Park Track Model"]
 availability: "in stock"
 link: "https://rebel3dprints.uk/products/decor-oulton-park/"
-image_link: "https://rebel3dprints.uk/images/products/decor/oulton/outlon-park.jpeg"
-
+image_link: "https://rebel3dprints.uk/images/products/decor/oulton/oulton-park.jpeg"
+description: "Get a piece of racing history with this Oulton Park track model, ideal for enthusiasts and collectors alike."
+brand: "Rebel 3D Prints"  # Added brand
+gtin: "1234567890123"  # Added GTIN
+mpn: "OPTM12345"  # Added MPN
 ---
-
 Get a piece of racing history with this Oulton Park track model, ideal for enthusiasts and collectors alike.
 
 {{< specs
