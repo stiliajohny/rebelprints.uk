@@ -14,7 +14,7 @@ draft: false
 weight: 100
 
 related_products: ["Croft Track Model"]
-
+availability: "in stock"
 link: "https://rebel3dprints.uk/products/decor-brands-hatch"
 image_link: "https://rebel3dprints.uk/images/products/decor/brands-hatch/brands-hatch-gp-indy.jpeg"
 

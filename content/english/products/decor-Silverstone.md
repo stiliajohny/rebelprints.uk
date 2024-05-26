@@ -14,7 +14,7 @@ draft: false
 weight: 100
 
 related_products: ["Donington Park GP Track Model"]
-
+availability: "in stock"
 link: "https://rebel3dprints.uk/products/decor-silverstone/"
 image_link: "https://rebel3dprints.uk/images/products/decor/silverstone/silverstone.jpeg"
 

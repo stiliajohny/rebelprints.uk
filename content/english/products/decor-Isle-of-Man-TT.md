@@ -14,7 +14,7 @@ draft: False
 weight: 100
 
 related_products: ["Donington Park GP Track Model"]
-
+availability: "in stock"
 link: "https://rebel3dprints.uk/products/decor-isle-of-man-tt/"
 image_link: "https://rebel3dprints.uk/images/products/decor/isle-of-man/isle-of-man-tt.jpeg"
 

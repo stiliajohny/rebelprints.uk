@@ -13,7 +13,7 @@ draft: false
 
 weight: 100
 
-related_products: ["Cadwell Park Track Model"]
+related_products: ["Cadwell Park Track Model"]availability: "in stock"
 
 link: "https://rebel3dprints.uk/products/decor-oulton-park/"
 image_link: "https://rebel3dprints.uk/images/products/decor/oulton/outlon-park.jpeg"
