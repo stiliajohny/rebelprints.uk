@@ -3,16 +3,11 @@ title: "Silverstone Track Model"
 date: 2024-04-12T11:22:16+01:00
 images:
   - "images/products/decor/silverstone/silverstone.jpeg"
-
 price: "5.85"
-
 colors: ["White", "Red", "Green", "Blue", Black, "Black/Red"]
 sizes: ["One Size"]
-
 draft: false
-
 weight: 100
-
 related_products: ["Donington Park GP Track Model"]
 availability: "in stock"
 link: "https://rebel3dprints.uk/products/decor-silverstone/"
