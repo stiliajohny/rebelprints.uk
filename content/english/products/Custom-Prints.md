@@ -30,7 +30,8 @@ Transform your ideas into reality with our high-quality 3D printed models. Showc
 
 **Contact us today for your quote**
 
-> This is not a real item. Please contact us to give you a quote based on the specific item you would like to print
+> This is not a real item.
+> Please contact us to give you a quote based on the specific item you would like to print
 
 {{< specs
     material="High-impact plastic (PETG)"
