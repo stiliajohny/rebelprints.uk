@@ -32,14 +32,3 @@ Transform your ideas into reality with our high-quality 3D printed models. Showc
 
 > This is not a real item.
 > Please contact us to give you a quote based on the specific item you would like to print
-
-{{< specs
-    material="High-impact plastic (PETG)"
-    dimensions="21x11 cm"
-    weight="210 grams"
-    compatibility="Desk display"
-    usage_instructions="Handle with care, display proudly."
-    care_and_maintenance="Wash with soapy water, avoid harsh chemicals."
-    warranty_information="One-year warranty against manufacturing defects."
-    environmental_or_safety_information="Made from recycled materials, non-toxic. Recycle with Plastics"
->}}
