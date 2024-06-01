@@ -4,7 +4,8 @@ sku: "STM12345"  # Added SKU
 date: 2024-04-12T11:22:16+01:00
 images:
   - "images/products/decor/silverstone/silverstone.jpeg"
-price: "5.85 GBP"  # Ensured price includes currency
+price: "5.89 GBP"  # Ensured price includes currency
+# discount_price: "25.00"
 colors: ["White", "Red", "Green", "Blue", "Black", "Black/Red"]  # Corrected color formatting
 sizes: ["One Size"]
 draft: false
