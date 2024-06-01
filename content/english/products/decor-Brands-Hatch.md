@@ -5,6 +5,7 @@ date: 2024-04-12T11:22:16+01:00
 images:
   - "images/products/decor/brands-hatch/brands-hatch-gp-indy.jpeg"
 price: "5.85 GBP"  # Ensured price includes currency
+# discount_price: "25.00"
 colors: ["White", "Red", "Green", "Blue", "Black", "Black/Red"]  # Corrected color formatting
 sizes: ["One Size"]
 draft: false
@@ -17,6 +18,10 @@ description: "Display a detailed model of Brands Hatch Track, featuring the new 
 brand: "Rebel 3D Prints"  # Added brand
 gtin: "1234567890123"  # Added GTIN
 mpn: "BHGP12345"  # Added MPN
+
+# button link if you don't want to use snipcart. empty link will not show button
+button_link: "https://rebel3dprintsuk.etsy.com/uk/listing/1735740513/brands-hatch-race-track-scale-model-with"
+
 
 ---
 

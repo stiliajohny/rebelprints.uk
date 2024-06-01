@@ -5,6 +5,7 @@ date: 2024-04-12T11:22:16+01:00
 images:
   - "images/products/decor/oulton/oulton-park.jpeg"
 price: "5.85 GBP"  # Ensured price includes currency
+# discount_price: "25.00"
 colors: ["White", "Red", "Green", "Blue", "Black", "Black/Red"]  # Corrected color formatting
 sizes: ["One Size"]
 draft: false
@@ -17,6 +18,7 @@ description: "Get a piece of racing history with this Oulton Park track model, i
 brand: "Rebel 3D Prints"  # Added brand
 gtin: "1234567890123"  # Added GTIN
 mpn: "OPTM12345"  # Added MPN
+button_link: "https://rebel3dprintsuk.etsy.com/uk/listing/1721626136/oulton-park-race-track-scale-model-with"
 ---
 Get a piece of racing history with this Oulton Park track model, ideal for enthusiasts and collectors alike.
 

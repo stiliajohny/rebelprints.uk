@@ -17,6 +17,7 @@ description: "Experience the thrill of Silverstone in your own home with this de
 brand: "Rebel 3D Prints"  # Added brand
 gtin: "1234567890123"  # Added GTIN
 mpn: "STM12345"  # Added MPN
+button_link: "https://rebel3dprintsuk.etsy.com/uk/listing/1721624874/silverstone-race-track-scale-model-with"
 ---
 Experience the thrill of Silverstone in your own home with this detailed 3D printed model. Ideal for display or as a collector's item.
 

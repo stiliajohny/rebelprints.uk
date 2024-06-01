@@ -17,6 +17,7 @@ description: "Bring the iconic Isle of Man TT into your home with this meticulou
 brand: "Rebel 3D Prints"  # Added brand
 gtin: "1234567890123"  # Added GTIN
 mpn: "IOMTT12345"  # Added MPN
+button_link: "https://rebel3dprintsuk.etsy.com/uk/listing/1721624874/silverstone-race-track-scale-model-with"
 ---
 
 Bring the iconic Isle of Man TT into your home with this meticulously crafted 3D printed model. Perfect for display or as a collector's piece for any motorbike enthusiast.

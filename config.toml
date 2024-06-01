@@ -104,11 +104,11 @@ keywords = "motorbike gear, eco-friendly accessories, 3D printed tools, rider eq
 # Preloader
 [params.preloader]
 enable = true
-preloader = "" # use .png , .svg or .gif format
+preloader = "images/logo.png" # use .png , .svg or .gif format
 
 # Snipcart
 [params.snipcart]
-enable = true
+enable = false
 # snipcart public api key
 snipcart_api = "YWJiZTk3YTMtNTQxNy00MDkwLWEyNzktOTJkY2IyYTJlZTM1NjM4NDc0NjY3MTk0OTE2NzM5"
 
