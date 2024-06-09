@@ -5,7 +5,7 @@ date: 2024-04-12T11:22:16+01:00
 images:
   - "images/products/decor/ducati-desk-light/IMG_8332.jpeg"
   - "images/products/decor/ducati-desk-light/IMG_8338.jpeg"
-price: "25.99 GBP"  # Ensured price includes currency
+price: "28.98 GBP"  # Ensured price includes currency
 # discount_price: "20.00"
 colors: ["White"]
 sizes: ["25x25 cm"]

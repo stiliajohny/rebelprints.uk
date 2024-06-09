@@ -17,12 +17,14 @@ draft: false
 weight: "100 grams"  # Specified weight unit
 related_products: ["Croft Track Model"]
 availability: "in stock"
-link: "https://rebel3dprints.uk/products/Custom-Prints"
+link: "https://wa.link/tl9v2f"
 image_link: "https://rebel3dprints.uk/images/products/custom-prints/custom-prints-0.png"
 description: "Transform your ideas into reality with our high-quality 3D printed models. Showcase the iconic Brands Hatch Track with its new 300 circuit layout. Ideal for racing enthusiasts."
 brand: "Rebel 3D Prints"  # Added brand
 gtin: "1234567890123"  # Added GTIN
 mpn: "BHGP12345"  # Added MPN
+button_link: "https://wa.link/tl9v2f"
+
 
 ---
 
