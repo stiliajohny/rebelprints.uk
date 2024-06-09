@@ -3,6 +3,7 @@ title: "Oulton Park Track Model"
 sku: "OPTM12345"  # Added SKU
 date: 2024-04-12T11:22:16+01:00
 images:
+  - "images/products/decor/oulton/IMG_8344.jpeg"
   - "images/products/decor/oulton/oulton-park.jpeg"
 price: "5.89 GBP"  # Ensured price includes currency
 # discount_price: "25.00"

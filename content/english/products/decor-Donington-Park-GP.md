@@ -3,6 +3,7 @@ title: "Donington Park GP Track Model"
 sku: "DPGP12345"  # Added SKU
 date: 2024-04-12T11:22:16+01:00
 images:
+  - "images/products/decor/donington/IMG_8340.jpeg"
   - "images/products/decor/donington/donington.jpeg"
 price: "5.89 GBP"  # Ensured price includes currency
 # discount_price: "25.00"

@@ -3,6 +3,7 @@ title: "Silverstone Track Model"
 sku: "STM12345"  # Added SKU
 date: 2024-04-12T11:22:16+01:00
 images:
+  - "images/products/decor/silverstone/IMG_8343.jpeg"
   - "images/products/decor/silverstone/silverstone.jpeg"
 price: "5.89 GBP"  # Ensured price includes currency
 # discount_price: "25.00"

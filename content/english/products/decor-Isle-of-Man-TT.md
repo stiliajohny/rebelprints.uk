@@ -3,6 +3,7 @@ title: "Isle of Man TT Track Model"
 sku: "IOMTT12345"  # Added SKU
 date: 2024-04-12T11:22:16+01:00
 images:
+  - "images/products/decor/isle-of-man/IMG_8342.jpeg"
   - "images/products/decor/isle-of-man/isle-of-man-tt.jpeg"
 price: "5.89 GBP"  # Ensured price includes currency
 # discount_price: "25.00"

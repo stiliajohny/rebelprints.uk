@@ -3,10 +3,11 @@ title: "Customisable Car Number Registration Reg Plate Keyring Keychain Personal
 sku: "CCNRP12345"
 date: 2024-06-01T11:22:16+01:00
 images:
-  - "images/products/keyring/license-plate/license-keyring-0.JPG"
-  - "images/products/keyring/license-plate/license-keyring-1.JPG"
-  - "images/products/keyring/license-plate/license-keyring-2.JPG"
-  - "images/products/keyring/license-plate/license-keyring-3.JPG"
+  - "images/products/keyring/license-plate/license-keyring2.jpeg"
+  - "images/products/keyring/license-plate/license-keyring0.jpeg"
+  - "images/products/keyring/license-plate/license-keyring1.jpeg"
+  - "images/products/keyring/license-plate/license-keyring3.jpeg"
+
 price: "3.49"
 # discount_price: "25.00"
 colors: ["Yellow with Blue Bar", "Yellow with No Bar", "White with Blue Bar"]
