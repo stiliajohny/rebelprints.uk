@@ -24,7 +24,7 @@ gtin: "9876543210987"
 mpn: "CCNRP12345"
 
 # button link if you don't want to use snipcart. empty link will not show button
-button_link: "https://www.etsy.com/uk/listing/1725666578/customisable-car-number-registration-reg?ref=listings_manager_grid"
+button_link: "https://www.etsy.com/uk/listing/1725666578/customisable-car-number-registration-reg"
 
 ---
 

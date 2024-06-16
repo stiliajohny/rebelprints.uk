@@ -3,7 +3,7 @@
 banner:
   enable: true
   title: "Rebel. Print. Ride."
-  content: "From the first spill-free chain lubricator to an expansive selection of custom tools, accessories, and gear, I've engineered solutions that amplify every ride. As a dedicated biker, I craft only what works."
+  content: "Welcome to our 3D printing hub, where passion for biking meets the precision of digital fabrication. While we're inspired by the thrill of the ride, our creations go beyond the biker world. From bespoke accessories and innovative tools to unique gadgets and more, we bring your ideas to life with a touch of #bikelife flair"
   image: "images/banner.png"  # Consider swapping this for a more relevant image
   button:
     enable: true
