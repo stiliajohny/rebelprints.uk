@@ -3,9 +3,9 @@ title: "Custom GoPro Mount for Quad Lock System"
 sku: "GPMQL12345"
 date: 2024-06-01T11:22:16+01:00
 images:
+  - "images/products/mount/gopro-quadlock/gopro-mount0.jpeg"
   - "images/products/mount/gopro-quadlock/gopro-mount1.jpeg"
   - "images/products/mount/gopro-quadlock/gopro-mount2.jpeg"
-  - "images/products/mount/gopro-quadlock/gopro-mount3.jpeg"
 
 
 price: "4.91"
