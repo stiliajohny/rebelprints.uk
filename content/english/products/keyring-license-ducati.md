@@ -23,7 +23,7 @@ gtin: "9876543210987"
 mpn: "DUCATI12345"
 
 # button link if you don't want to use snipcart. empty link will not show button
-button_link: "https://www.etsy.com/uk/listing/1725666578/customisable-ducati-keyring"
+button_link: "https://rebel3dprintsuk.etsy.com/uk/listing/1735913414/ducati-keyring-stylish-motorcycle"
 ---
 
 Personalise your own Ducati keyring with up to 10-12 characters. Choose from multiple styles and ensure a unique touch to your keys or bag.
