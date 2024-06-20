@@ -1,5 +1,5 @@
 ---
-title: "Customisable Ducati Keyring"
+title: "Ducati Keyring"
 sku: "DUCATI12345"
 date: 2024-06-01T11:22:16+01:00
 images:
