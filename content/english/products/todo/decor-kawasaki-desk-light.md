@@ -32,6 +32,6 @@ Deck out your den with this slick 3D logo lamp, perfect for bikers wanting to ad
     compatibility="Works with any standard USB port"
     usage_instructions="Just plug the lamp into a USB port, and flip the switch to adjust the light to your style."
     care_and_maintenance="Wipe down with a soft, dry cloth. Keep it simple: no harsh chemicals."
-    warranty_information="Includes a 1-year warranty for extra peace of mind."
+    warranty_information="Lifetime Warranty - Free replacement"
     environmental_or_safety_information="Sporting energy-saving LED lights to keep your bills down. Remember to recycle the tech bits properly."
 >}}

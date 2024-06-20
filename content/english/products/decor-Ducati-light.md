@@ -30,6 +30,6 @@ Illuminate your space with this unique Ducati logo light box. Perfect for garage
     compatibility="USB powered (wall plug not included)"
     usage_instructions="Plug into any USB port or adapter, enjoy the illuminated Ducati logo."
     care_and_maintenance="Clean with a dry cloth, avoid exposure to moisture."
-    warranty_information="Six-month warranty against manufacturing defects."
+    warranty_information="Lifetime Warranty - Free replacement"
     environmental_or_safety_information="Made from recyclable materials, eco-friendly."
 >}}

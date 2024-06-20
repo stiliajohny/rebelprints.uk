@@ -26,6 +26,6 @@ Display a detailed model of Snetterton Track, featuring the new 300 circuit layo
     compatibility="Desk display"
     usage_instructions="Handle with care, display proudly."
     care_and_maintenance="Wash with soapy water, avoid harsh chemicals."
-    warranty_information="One-year warranty against manufacturing defects."
+    warranty_information="Lifetime Warranty - Free replacement"
     environmental_or_safety_information="Made from recycled materials, non-toxic. Recycle with Plastics"
 >}}

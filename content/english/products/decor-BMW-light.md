@@ -30,6 +30,6 @@ Illuminate your space with this unique BMW logo light box. Perfect for garages, 
     compatibility="USB powered (wall plug not included)"
     usage_instructions="Plug into any USB port or adapter, enjoy the illuminated BMW logo."
     care_and_maintenance="Clean with a dry cloth, avoid exposure to moisture."
-    warranty_information="Six-month warranty against manufacturing defects."
+    warranty_information="Lifetime Warranty - Free replacement"
     environmental_or_safety_information="Made from recyclable materials, eco-friendly."
 >}}

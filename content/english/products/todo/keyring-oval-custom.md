@@ -33,6 +33,6 @@ Boost your bling with our Custom Oval Keyring. Make it yours by slapping your ow
     compatibility="# TODO ADD"
     usage_instructions="# TODO ADD"
     care_and_maintenance="Wash with soapy water, avoid harsh chemicals."
-    warranty_information="# TODO ADD"
+    warranty_information="Lifetime Warranty - Free replacement"
     environmental_or_safety_information="Made from recycled materials, non-toxic. Recycle with Plastics"
 >}}

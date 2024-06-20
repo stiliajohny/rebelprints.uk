@@ -37,7 +37,7 @@ Personalise your own car number registration plate keyring with up to 10-12 char
     compatibility="Keychain, Bag Accessory"
     usage_instructions="Ensure spelling and spacing are correct before finalizing your order. Comes with a sturdy key chain for easy attachment."
     care_and_maintenance="Wipe with a damp cloth, avoid harsh chemicals."
-    warranty_information="One-year warranty against manufacturing defects."
+    warranty_information="Lifetime Warranty - Free replacement"
     environmental_or_safety_information="Made from recycled materials, non-toxic. Recycle with Plastics"
 >}}
 

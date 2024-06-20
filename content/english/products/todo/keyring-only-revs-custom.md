@@ -32,6 +32,6 @@ Ignite your passion for motorbiking with our Only Revs Keyring, designed for ent
     compatibility="# TODO ADD"
     usage_instructions="# TODO ADD"
     care_and_maintenance="Wash with soapy water, avoid harsh chemicals."
-    warranty_information="# TODO ADD"
+    warranty_information="Lifetime Warranty - Free replacement"
     environmental_or_safety_information="Made from recycled materials, non-toxic. Recycle with Plastics"
 >}}
