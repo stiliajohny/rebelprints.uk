@@ -7,7 +7,7 @@ images:
   - "images/products/decor/hawktuah-light/hawktuah-1.JPG"
   - "images/products/decor/hawktuah-light/hawktuah-3.JPG"
   - "images/products/decor/hawktuah-light/hawktuah-4.JPG"
-price: "12.98 GBP"  # Ensured price includes currency
+price: "17.98 GBP"  # Ensured price includes currency
 # discount_price: "20.00"
 colors: ["Mix"]
 sizes: ["Standard"]
