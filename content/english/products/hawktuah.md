@@ -4,7 +4,7 @@ sku: "HAWKTLIGHT12345"  # Added SKU
 date: 2024-04-12T11:22:16+01:00
 images:
   - "images/products/decor/hawktuah-light/hawktuah-0.gif"
-  - "images/products/decor/hawktuah-light/hawktuah-2.JPG"
+  - "images/products/decor/hawktuah-light/hawktuah-1.JPG"
   - "images/products/decor/hawktuah-light/hawktuah-3.JPG"
   - "images/products/decor/hawktuah-light/hawktuah-4.JPG"
 price: "12.98 GBP"  # Ensured price includes currency
